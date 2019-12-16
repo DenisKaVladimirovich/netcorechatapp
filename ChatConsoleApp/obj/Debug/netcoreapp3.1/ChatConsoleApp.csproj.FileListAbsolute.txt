@@ -1,0 +1,16 @@
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\bin\Debug\netcoreapp3.1\ChatConsoleApp.exe
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\bin\Debug\netcoreapp3.1\ChatConsoleApp.deps.json
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\bin\Debug\netcoreapp3.1\ChatConsoleApp.runtimeconfig.json
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\bin\Debug\netcoreapp3.1\ChatConsoleApp.runtimeconfig.dev.json
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\bin\Debug\netcoreapp3.1\ChatConsoleApp.dll
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\bin\Debug\netcoreapp3.1\ChatConsoleApp.pdb
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\bin\Debug\netcoreapp3.1\Chat.Core.dll
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\bin\Debug\netcoreapp3.1\Chat.Core.Server.dll
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\bin\Debug\netcoreapp3.1\Chat.Core.Server.pdb
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\bin\Debug\netcoreapp3.1\Chat.Core.pdb
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\obj\Debug\netcoreapp3.1\ChatConsoleApp.csprojAssemblyReference.cache
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\obj\Debug\netcoreapp3.1\ChatConsoleApp.AssemblyInfoInputs.cache
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\obj\Debug\netcoreapp3.1\ChatConsoleApp.AssemblyInfo.cs
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\obj\Debug\netcoreapp3.1\ChatConsoleApp.csproj.CopyComplete
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\obj\Debug\netcoreapp3.1\ChatConsoleApp.dll
+C:\Users\vislobokov.adm\Desktop\Chat\ChatConsoleApp\obj\Debug\netcoreapp3.1\ChatConsoleApp.pdb

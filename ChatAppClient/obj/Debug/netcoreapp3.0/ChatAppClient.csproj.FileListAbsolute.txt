@@ -1,0 +1,10 @@
+C:\Users\denis\Documents\netcorechatapp\ChatAppClient\bin\Debug\netcoreapp3.0\ChatAppClient.exe
+C:\Users\denis\Documents\netcorechatapp\ChatAppClient\bin\Debug\netcoreapp3.0\ChatAppClient.deps.json
+C:\Users\denis\Documents\netcorechatapp\ChatAppClient\bin\Debug\netcoreapp3.0\ChatAppClient.runtimeconfig.json
+C:\Users\denis\Documents\netcorechatapp\ChatAppClient\bin\Debug\netcoreapp3.0\ChatAppClient.runtimeconfig.dev.json
+C:\Users\denis\Documents\netcorechatapp\ChatAppClient\bin\Debug\netcoreapp3.0\ChatAppClient.dll
+C:\Users\denis\Documents\netcorechatapp\ChatAppClient\bin\Debug\netcoreapp3.0\ChatAppClient.pdb
+C:\Users\denis\Documents\netcorechatapp\ChatAppClient\obj\Debug\netcoreapp3.0\ChatAppClient.AssemblyInfoInputs.cache
+C:\Users\denis\Documents\netcorechatapp\ChatAppClient\obj\Debug\netcoreapp3.0\ChatAppClient.AssemblyInfo.cs
+C:\Users\denis\Documents\netcorechatapp\ChatAppClient\obj\Debug\netcoreapp3.0\ChatAppClient.dll
+C:\Users\denis\Documents\netcorechatapp\ChatAppClient\obj\Debug\netcoreapp3.0\ChatAppClient.pdb

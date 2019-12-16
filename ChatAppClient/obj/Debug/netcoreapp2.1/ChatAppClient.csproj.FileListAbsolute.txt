@@ -1,0 +1,11 @@
+C:\Users\vislobokov.adm\source\repos\ChatAppClient\bin\Debug\netcoreapp2.1\ChatAppClient.deps.json
+C:\Users\vislobokov.adm\source\repos\ChatAppClient\bin\Debug\netcoreapp2.1\ChatAppClient.runtimeconfig.json
+C:\Users\vislobokov.adm\source\repos\ChatAppClient\bin\Debug\netcoreapp2.1\ChatAppClient.runtimeconfig.dev.json
+C:\Users\vislobokov.adm\source\repos\ChatAppClient\bin\Debug\netcoreapp2.1\ChatAppClient.dll
+C:\Users\vislobokov.adm\source\repos\ChatAppClient\bin\Debug\netcoreapp2.1\ChatAppClient.pdb
+C:\Users\vislobokov.adm\source\repos\ChatAppClient\obj\Debug\netcoreapp2.1\ChatAppClient.csprojAssemblyReference.cache
+C:\Users\vislobokov.adm\source\repos\ChatAppClient\obj\Debug\netcoreapp2.1\ChatAppClient.csproj.CoreCompileInputs.cache
+C:\Users\vislobokov.adm\source\repos\ChatAppClient\obj\Debug\netcoreapp2.1\ChatAppClient.AssemblyInfoInputs.cache
+C:\Users\vislobokov.adm\source\repos\ChatAppClient\obj\Debug\netcoreapp2.1\ChatAppClient.AssemblyInfo.cs
+C:\Users\vislobokov.adm\source\repos\ChatAppClient\obj\Debug\netcoreapp2.1\ChatAppClient.dll
+C:\Users\vislobokov.adm\source\repos\ChatAppClient\obj\Debug\netcoreapp2.1\ChatAppClient.pdb
