@@ -3,20 +3,20 @@ using System.Text;
 using System.Net;
 using System.Net.Sockets;
 using System.Threading;
+using System.Threading.Tasks;
 
 namespace ChatAppClient
 {
     class Program
     {
         static TcpClient client = new TcpClient("localhost", 5230);
-        static Thread thread;
-        static bool canwork = false;
+        static Task thread;
+        static CancellationTokenSource cts = new CancellationTokenSource();
         static void Main(string[] args)
         {
-            thread = new Thread(Job);
+            thread = new Task(Job);
             thread.Start();
-            canwork = true;
-            while (canwork)
+            while (!cts.IsCancellationRequested)
             {
                 if (client.Client.Connected)
                 {
@@ -29,7 +29,9 @@ namespace ChatAppClient
                 }
 
             }
-            Console.WriteLine(thread?.IsAlive);
+            Thread.Sleep(50);
+            Console.WriteLine(thread?.Status.ToString());
+            Console.WriteLine(thread?.IsCanceled);
             Console.ReadLine();
         }
 
@@ -40,14 +42,15 @@ namespace ChatAppClient
                 string msg = Console.ReadLine();
                 if (msg == "/disconect")
                 {
-                    canwork = false;
+                    client.GetStream().Write(Encoding.UTF8.GetBytes(msg), 0, Encoding.UTF8.GetBytes(msg).Length);
+                    cts.Cancel();
+                    Console.WriteLine(thread.IsCanceled);
+                    Console.WriteLine(thread.IsCompleted);
+                    Console.WriteLine(thread.IsFaulted);
+                    Console.WriteLine(thread.IsCompletedSuccessfully);
 
-                    
-                    client.Close();
-                    Console.WriteLine(thread.IsAlive);
-                    thread
-                    break;
-                    
+                    thread = null;
+
                 }
                 else
                 {

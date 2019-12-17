@@ -5,21 +5,23 @@ using System.IO;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading;
+using System.Threading.Tasks;
 
 namespace Chat.Core.Model
 {
     public class Abonent
     {
         public UserModel User { get; private set; }
-        private Thread thread;
         private TcpClient tcpClient;
+        Task work;
         BackgroundWorker worker;
+        CancellationTokenSource cts = new CancellationTokenSource();
 
         public Abonent(TcpClient client)
         {
             this.tcpClient = client;
-            thread = new Thread(Start);
-            thread.Start();
+            work = new Task(Start);
+            work.Start();
         }
 
 
@@ -35,7 +37,7 @@ namespace Chat.Core.Model
             byte[] msg = Encoding.UTF8.GetBytes("You're connected");
             this.tcpClient.GetStream().Write(msg, 0, msg.Length);
             
-            while (true)
+            while (!cts.IsCancellationRequested)
             {
                 if (tcpClient.Available != 0)
                 {
@@ -44,9 +46,11 @@ namespace Chat.Core.Model
                     string smsg = Encoding.UTF8.GetString(buffer);
                     if (smsg == "/disconect")
                     {
+                        tcpClient.Client.Close();
+                        cts.Cancel();
 
                     }
-                    Console.WriteLine();
+                    Console.WriteLine(smsg);
                 }
 
             }

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\denis\\Documents\\netcorechatapp\\ChatConsoleApp\\ChatConsoleApp.csproj": {}
+    "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\ChatConsoleApp\\ChatConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core.Server\\Chat.Core.Server.csproj": {
+    "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core.Server\\Chat.Core.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core.Server\\Chat.Core.Server.csproj",
+        "projectUniqueName": "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core.Server\\Chat.Core.Server.csproj",
         "projectName": "Chat.Core.Server",
-        "projectPath": "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core.Server\\Chat.Core.Server.csproj",
-        "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core.Server\\obj\\",
+        "projectPath": "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core.Server\\Chat.Core.Server.csproj",
+        "packagesPath": "C:\\Users\\vislobokov.adm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vislobokov.adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj": {
-                "projectPath": "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj"
+              "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj": {
+                "projectPath": "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj"
               }
             }
           }
@@ -64,25 +64,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj": {
+    "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj",
+        "projectUniqueName": "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj",
         "projectName": "Chat.Core",
-        "projectPath": "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj",
-        "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core\\obj\\",
+        "projectPath": "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj",
+        "packagesPath": "C:\\Users\\vislobokov.adm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vislobokov.adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -124,25 +124,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\denis\\Documents\\netcorechatapp\\ChatConsoleApp\\ChatConsoleApp.csproj": {
+    "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\ChatConsoleApp\\ChatConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denis\\Documents\\netcorechatapp\\ChatConsoleApp\\ChatConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\ChatConsoleApp\\ChatConsoleApp.csproj",
         "projectName": "ChatConsoleApp",
-        "projectPath": "C:\\Users\\denis\\Documents\\netcorechatapp\\ChatConsoleApp\\ChatConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denis\\Documents\\netcorechatapp\\ChatConsoleApp\\obj\\",
+        "projectPath": "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\ChatConsoleApp\\ChatConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\vislobokov.adm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\ChatConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\denis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vislobokov.adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -156,11 +156,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core.Server\\Chat.Core.Server.csproj": {
-                "projectPath": "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core.Server\\Chat.Core.Server.csproj"
+              "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core.Server\\Chat.Core.Server.csproj": {
+                "projectPath": "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core.Server\\Chat.Core.Server.csproj"
               },
-              "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj": {
-                "projectPath": "C:\\Users\\denis\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj"
+              "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj": {
+                "projectPath": "C:\\Users\\vislobokov.adm\\Documents\\netcorechatapp\\Chat.Core\\Chat.Core.csproj"
               }
             }
           }
@@ -183,12 +183,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
